@@ -10,7 +10,7 @@ def main():
     
     x = int(input("Enter an interger:"))
     
-    if x % == 1
+    if x % 2 == 0
     print("0")
 
     if result:

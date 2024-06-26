@@ -7,6 +7,10 @@ def main():
     """
     Make your code here
     """
+    
+    x = int(input("Enter an interger:"))
+    
+    if
 
     if result:
         print(f'The value {number} is an odd number')

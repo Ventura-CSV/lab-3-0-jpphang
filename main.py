@@ -16,10 +16,9 @@ def main():
     elif x % 2 == 0:
         result = 0
 
-    if result:
-        print(f'The value {number} is an odd number')
-    else:
-        print(f'The value {number} is an even number')
+    
+    print ("the result is (result)")
+  
 
     ########################################
     # Do not delete the return statement

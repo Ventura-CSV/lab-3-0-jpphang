@@ -2,8 +2,6 @@ def main():
     ##################################################
     # Comlete your code here
     ##################################################
-    number = int(input('Enter your input: '))
-
     """
     Make your code here
     """
@@ -16,8 +14,7 @@ def main():
     elif x % 2 == 0:
         result = 0
 
-    
-    print ("the result is (result)")
+    print(f"The result is {result}")
   
 
     ########################################

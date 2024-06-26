@@ -10,8 +10,11 @@ def main():
     
     x = int(input("Enter an interger:"))
     
-    if x % 2 == 0
-    print("0")
+    if x % 2 == 1: 
+    result = 1
+    
+    elif x % 2 == 0:
+    result = 0
 
     if result:
         print(f'The value {number} is an odd number')
